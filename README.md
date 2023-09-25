@@ -40,7 +40,7 @@ c.execute('''
 
 c.fetchall()
 ```
-5. Then I proceeded to inser data. First re-stating the existing fields I had defined earlier, then in the same order writing my values.
+5. Then I proceeded to insert data. First re-stating the existing fields I had defined earlier, then in the same order writing my values.
  ```
 sql_query = """
 
